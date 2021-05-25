@@ -25,3 +25,17 @@ C:\Users\pabli\Desktop\ProyectoBase\ProyectoBase\obj\Debug\ProyectoBase.csproj.G
 C:\Users\pabli\Desktop\ProyectoBase\ProyectoBase\obj\Debug\ProyectoBase.csproj.CoreCompileInputs.cache
 C:\Users\pabli\Desktop\ProyectoBase\ProyectoBase\obj\Debug\ProyectoBase.exe
 C:\Users\pabli\Desktop\ProyectoBase\ProyectoBase\obj\Debug\ProyectoBase.pdb
+C:\Users\pabli\Documents\GitHub\7ma-tarea-PabloBiasco74946\ProyectoBase\ProyectoBase\bin\Debug\ProyectoBase.exe.config
+C:\Users\pabli\Documents\GitHub\7ma-tarea-PabloBiasco74946\ProyectoBase\ProyectoBase\bin\Debug\ProyectoBase.exe
+C:\Users\pabli\Documents\GitHub\7ma-tarea-PabloBiasco74946\ProyectoBase\ProyectoBase\bin\Debug\ProyectoBase.pdb
+C:\Users\pabli\Documents\GitHub\7ma-tarea-PabloBiasco74946\ProyectoBase\ProyectoBase\obj\Debug\ProyectoBase.csprojAssemblyReference.cache
+C:\Users\pabli\Documents\GitHub\7ma-tarea-PabloBiasco74946\ProyectoBase\ProyectoBase\obj\Debug\ProyectoBase.AltaCurso.resources
+C:\Users\pabli\Documents\GitHub\7ma-tarea-PabloBiasco74946\ProyectoBase\ProyectoBase\obj\Debug\ProyectoBase.AltaPersona.resources
+C:\Users\pabli\Documents\GitHub\7ma-tarea-PabloBiasco74946\ProyectoBase\ProyectoBase\obj\Debug\ProyectoBase.LoginForm.resources
+C:\Users\pabli\Documents\GitHub\7ma-tarea-PabloBiasco74946\ProyectoBase\ProyectoBase\obj\Debug\ProyectoBase.PrincipalForm.resources
+C:\Users\pabli\Documents\GitHub\7ma-tarea-PabloBiasco74946\ProyectoBase\ProyectoBase\obj\Debug\ProyectoBase.Properties.Resources.resources
+C:\Users\pabli\Documents\GitHub\7ma-tarea-PabloBiasco74946\ProyectoBase\ProyectoBase\obj\Debug\ProyectoBase.Usuarios.resources
+C:\Users\pabli\Documents\GitHub\7ma-tarea-PabloBiasco74946\ProyectoBase\ProyectoBase\obj\Debug\ProyectoBase.csproj.GenerateResource.cache
+C:\Users\pabli\Documents\GitHub\7ma-tarea-PabloBiasco74946\ProyectoBase\ProyectoBase\obj\Debug\ProyectoBase.csproj.CoreCompileInputs.cache
+C:\Users\pabli\Documents\GitHub\7ma-tarea-PabloBiasco74946\ProyectoBase\ProyectoBase\obj\Debug\ProyectoBase.exe
+C:\Users\pabli\Documents\GitHub\7ma-tarea-PabloBiasco74946\ProyectoBase\ProyectoBase\obj\Debug\ProyectoBase.pdb

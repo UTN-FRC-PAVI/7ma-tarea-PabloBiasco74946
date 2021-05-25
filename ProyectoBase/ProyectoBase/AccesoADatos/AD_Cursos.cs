@@ -62,7 +62,6 @@ namespace ProyectoBase.AccesoADatos
                 cmd.Parameters.AddWithValue("@IdCarrera", IdCarreras);
                 cmd.CommandType = CommandType.Text;
                 cmd.CommandText = consulta;
-                cmd.Transaction = ObjTransaccion;
 
                 cn.Open();
 
@@ -76,11 +75,12 @@ namespace ProyectoBase.AccesoADatos
 
                 foreach (var IdAlumno in ListaIdAlumnos)
                 {
+                   
                     string consultaCursoXAlumno = "INSERT INTO personas_por_cursos values (@IdPersona, @IdCurso,@FechaAsociacion)";
+                    cmd.Parameters.Clear();
                     cmd.Parameters.AddWithValue("@IdPersona", IdAlumno);
                     cmd.Parameters.AddWithValue("@IdCurso", idCurso);
                     cmd.Parameters.AddWithValue("@FechaAsociacion", DateTime.Now);
-                    cmd.Parameters.Clear();
 
                     cmd.CommandText = consultaCursoXAlumno;
                     cmd.ExecuteNonQuery();
